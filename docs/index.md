@@ -1,4 +1,4 @@
-An h1 header
+An h1 header PAGE DOCS
 ============
 
 Paragraphs are separated by a blank line.
